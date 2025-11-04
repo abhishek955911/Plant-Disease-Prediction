@@ -1,2 +1,14 @@
 # Plant-Disease-Prediction
-🌿 A deep learning project that detects plant leaf diseases from images. It helps identify infections early to prevent crop loss. The model analyzes leaf patterns using CNN and gives accurate predictions through a simple, easy-to-use web app.
+🌿 A deep learning project that detects plant leaf diseases from images. It helps identify infections early to prevent crop loss. The model analyzes leaf patterns using CNN and gives accurate predictions through a simple, easy-to-use web app
+
+This project predicts plant diseases from leaf images using deep learning.
+
+## 📌 Features
+- Detects diseases from plant leaf images  
+- Uses a trained CNN/Transfer Learning model  
+- Simple and easy-to-use web interface  
+
+## 🧠 Tech Stack
+- Python  
+- TensorFlow / Keras  
+- Streamlit  
